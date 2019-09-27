@@ -1,0 +1,52 @@
+body{
+  font-family: 'Crimson Pro', serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.navbar-brand{
+  font-family: 'Lora', serif;
+  font-size: 3rem;
+}
+.quote{
+  font-family: 'Lobster', cursive;
+  font-size: 1rem;
+  font-weight: lighter;
+  color:  #80ffd4;
+  padding: 0;
+  padding-left: 50px;
+
+}
+.navbar-item{
+  font-family: 'Righteous', cursive;
+  font-size: 2rem;
+}
+div{
+  text-align: center;
+}
+.row{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.header{
+  padding-top: 50px;
+  font-family: 'Kaushan Script', cursive;
+}
+#bottom{
+  padding-top: 100px;
+}
+.bottom_p{
+  color: #80ffd4;
+}
+button{
+  padding-right: 50px;
+  border-radius: 100%;
+}
+.col-md-3{
+  height: 200px;
+  margin: 50px;
+}
+.bottomest{
+  font-family: 'Kanit', sans-serif;
+  font-weight: lighter;
+  font-size: 15px;
+}
